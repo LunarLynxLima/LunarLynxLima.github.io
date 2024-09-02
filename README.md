@@ -1,7 +1,7 @@
 <!-- # Personal-Website -->
 <!-- Repo for personal website -->
 # 💫 About Me:
-I'm currently working on an accident detection model with Multimodal Input for comprehensive surveying, prediction, and road planing <br>I'm looking to collaborate on Implementation Projects in different domains to elevate the day-to-day problems.<br>I'm looking for help with finding industry projects and networking<br>I'm currently learning about LLMs and Meta-Learning<br>Ask me about Philosophy, Machine Learning, and Natural language Processing.<br>Fun Fact : i am you
+I'm currently working on an accident detection model with Multimodal Input for comprehensive surveying, prediction, and road planning. <br>I'm looking to collaborate on Implementation Projects in different domains to elevate the day-to-day problems.<br>I'm looking for help with finding industry projects and networking<br>I'm currently learning about LLMs and Meta-Learning<br>Ask me about Philosophy, Machine Learning, and Natural language Processing.<br>Fun Fact : i am you
 
 
 ## 🌐 Socials:
