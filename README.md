@@ -17,7 +17,7 @@ I'm currently working on an accident detection model with Multimodal Input for c
 4. ![image](https://github.com/user-attachments/assets/1a4b1cb7-1405-4b84-843e-e60b6c692ee3) [Experience in Javascript (ReactJS / Redux), HTML, CSS, SCSS, Webpack, TypeScript]
 5. From Scratch Bitcoin Ledger
 
-Something security
+7. Something security
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l.akshay137) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshay-kumar-57923b229) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@qwYash) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/l.akshay137) 
