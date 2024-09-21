@@ -5,12 +5,17 @@ I'm currently working on an accident detection model with Multimodal Input for c
 
 ## Projects
 ### Current Projects
-Personal Website [Host Personal website using GitHub; Add previous repo with desc.]
+Wi-Fi Strength Prediction using Federated Machine Learning
+Visual Assistant Using llm for an assistant using speech as a medium (audio2text) with VQA, SUmmarization RAG pipeline with active privacy protection and smart storage) 
+Meta-Learning: Numerai for Market Prediction
+Meta-Learning: ARC for creating General intelligence is the ability to efficiently acquire new skills.
+
 ### Future Projects Idea
+Personal Website [Host Personal website using GitHub; Add previous repo with desc.]
+FrontEnd Zuber
 scrape email for calendar populate
 ![image](https://github.com/user-attachments/assets/1a4b1cb7-1405-4b84-843e-e60b6c692ee3) :: [Experience in Javascript (ReactJS / Redux), HTML, CSS, SCSS, Webpack, TypeScript]
 From Scratch Bitcoin Ledger
-FrontEnd Zuber
 
 Something security
 
