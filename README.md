@@ -11,11 +11,11 @@ Meta-Learning: Numerai for Market Prediction
 Meta-Learning: ARC for creating General intelligence is the ability to efficiently acquire new skills.
 
 ### Future Projects Idea
-Personal Website [Host Personal website using GitHub; Add previous repo with desc.]
-FrontEnd Zuber
-scrape email for calendar populate
-![image](https://github.com/user-attachments/assets/1a4b1cb7-1405-4b84-843e-e60b6c692ee3) :: [Experience in Javascript (ReactJS / Redux), HTML, CSS, SCSS, Webpack, TypeScript]
-From Scratch Bitcoin Ledger
+1. Personal Website [Host Personal website using GitHub; Add previous repo with desc.]
+2. FrontEnd Zuber
+3. scrape email for calendar populate
+4. ![image](https://github.com/user-attachments/assets/1a4b1cb7-1405-4b84-843e-e60b6c692ee3) \n[Experience in Javascript (ReactJS / Redux), HTML, CSS, SCSS, Webpack, TypeScript]
+5. From Scratch Bitcoin Ledger
 
 Something security
 
