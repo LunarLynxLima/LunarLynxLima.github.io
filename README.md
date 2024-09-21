@@ -1,8 +1,18 @@
 <!-- # Personal-Website -->
 <!-- Repo for personal website -->
 # 💫 About Me:
-I'm currently working on an accident detection model with Multimodal Input for comprehensive surveying, prediction, and road planning. <br>I'm looking to collaborate on Implementation Projects in different domains to elevate the day-to-day problems.<br>I'm looking for help with finding industry projects and networking<br>I'm currently learning about LLMs and Meta-Learning<br>Ask me about Philosophy, Machine Learning, and Natural language Processing.<br>Fun Fact : i am you
+I'm currently working on an accident detection model with Multimodal Input for comprehensive surveying, prediction, and road planning. <br>I'm looking to collaborate on Implementation Projects in different domains to elevate the day-to-day problems.<br>I'm looking for help with finding industry projects and networking<br>I'm currently learning about LLMs and Meta-Learning<br>Ask me about Philosophy, Machine Learning, and Natural language Processing.<br>Fun Fact: i am you
 
+## Projects
+### Current Projects
+Personal Website [Host Personal website using GitHub; Add previous repo with desc.]
+### Future Projects Idea
+scrape email for calendar populate
+![image](https://github.com/user-attachments/assets/1a4b1cb7-1405-4b84-843e-e60b6c692ee3) :: [Experience in Javascript (ReactJS / Redux), HTML, CSS, SCSS, Webpack, TypeScript]
+From Scratch Bitcoin Ledger
+FrontEnd Zuber
+
+Something security
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l.akshay137) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshay-kumar-57923b229) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@qwYash) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/l.akshay137) 
