@@ -5,16 +5,16 @@ I'm currently working on an accident detection model with Multimodal Input for c
 
 ## Projects
 ### Current Projects
-Wi-Fi Strength Prediction using Federated Machine Learning
-Visual Assistant Using llm for an assistant using speech as a medium (audio2text) with VQA, SUmmarization RAG pipeline with active privacy protection and smart storage) 
-Meta-Learning: Numerai for Market Prediction
-Meta-Learning: ARC for creating General intelligence is the ability to efficiently acquire new skills.
+1. Wi-Fi Strength Prediction using Federated Machine Learning
+2. Visual Assistant Using llm for an assistant using speech as a medium (audio2text) with VQA, SUmmarization RAG pipeline with active privacy protection and smart storage) 
+3. Meta-Learning: Numerai for Market Prediction
+4. Meta-Learning: ARC for creating General intelligence is the ability to efficiently acquire new skills.
 
 ### Future Projects Idea
 1. Personal Website [Host Personal website using GitHub; Add previous repo with desc.]
 2. FrontEnd Zuber
 3. scrape email for calendar populate
-4. ![image](https://github.com/user-attachments/assets/1a4b1cb7-1405-4b84-843e-e60b6c692ee3) \n[Experience in Javascript (ReactJS / Redux), HTML, CSS, SCSS, Webpack, TypeScript]
+4. ![image](https://github.com/user-attachments/assets/1a4b1cb7-1405-4b84-843e-e60b6c692ee3) [Experience in Javascript (ReactJS / Redux), HTML, CSS, SCSS, Webpack, TypeScript]
 5. From Scratch Bitcoin Ledger
 
 Something security
